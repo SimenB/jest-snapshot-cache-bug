@@ -1,0 +1,12 @@
+{
+  "name": "jest-snapshot-cache-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
